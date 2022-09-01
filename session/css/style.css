@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+h1 {
+    display: inline;
+    margin-left: 10px;
+}
+
+ul {
+    float: right;
+}
+
+li {
+    float: left;
+    list-style-type: none;
+    margin: 10px 30px;
+}
+
+ul a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #ffffff;
+}
+
